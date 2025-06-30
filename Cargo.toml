@@ -1,0 +1,11 @@
+[package]
+name = "uip-node"
+version = "0.1.0"
+edition = "2021"
+
+description = "Minimal UIP node for peer-to-peer content hosting and blockchain DNS integration."
+
+[dependencies]
+clap = { version = "4.0", features = ["derive"] }
+log = "0.4"
+anyhow = "1.0"
