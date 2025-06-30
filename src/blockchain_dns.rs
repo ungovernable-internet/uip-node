@@ -1,6 +1,8 @@
-//! Blockchain DNS interaction module (placeholder)
+//! Blockchain DNS interaction module
 
 pub fn start_blockchain_dns() {
-    // TODO: Implement blockchain DNS logic
-    println!("Blockchain DNS interaction started (placeholder)");
+    // Placeholder: Simulate DNS registration and resolution
+    println!("Registering domain example.uip -> QmHash...");
+    println!("Resolving domain example.uip -> QmHash");
+    // TODO: Integrate with actual smart contract via web3 or ethers-rs
 }

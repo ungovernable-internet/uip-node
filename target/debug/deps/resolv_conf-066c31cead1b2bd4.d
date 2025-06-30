@@ -1,0 +1,10 @@
+C:\Users\Bainbeats\Desktop\The Ungovernable Internet Protocol (UIP)\uip-node\target\debug\deps\resolv_conf-066c31cead1b2bd4.d: C:\Users\Bainbeats\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resolv-conf-0.7.4\src\lib.rs C:\Users\Bainbeats\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resolv-conf-0.7.4\src\config.rs C:\Users\Bainbeats\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resolv-conf-0.7.4\src\grammar.rs C:\Users\Bainbeats\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resolv-conf-0.7.4\src\ip.rs
+
+C:\Users\Bainbeats\Desktop\The Ungovernable Internet Protocol (UIP)\uip-node\target\debug\deps\libresolv_conf-066c31cead1b2bd4.rlib: C:\Users\Bainbeats\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resolv-conf-0.7.4\src\lib.rs C:\Users\Bainbeats\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resolv-conf-0.7.4\src\config.rs C:\Users\Bainbeats\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resolv-conf-0.7.4\src\grammar.rs C:\Users\Bainbeats\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resolv-conf-0.7.4\src\ip.rs
+
+C:\Users\Bainbeats\Desktop\The Ungovernable Internet Protocol (UIP)\uip-node\target\debug\deps\libresolv_conf-066c31cead1b2bd4.rmeta: C:\Users\Bainbeats\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resolv-conf-0.7.4\src\lib.rs C:\Users\Bainbeats\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resolv-conf-0.7.4\src\config.rs C:\Users\Bainbeats\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resolv-conf-0.7.4\src\grammar.rs C:\Users\Bainbeats\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resolv-conf-0.7.4\src\ip.rs
+
+C:\Users\Bainbeats\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resolv-conf-0.7.4\src\lib.rs:
+C:\Users\Bainbeats\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resolv-conf-0.7.4\src\config.rs:
+C:\Users\Bainbeats\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resolv-conf-0.7.4\src\grammar.rs:
+C:\Users\Bainbeats\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resolv-conf-0.7.4\src\ip.rs:
